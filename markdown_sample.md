@@ -59,7 +59,7 @@ Obrázek ![Kočka](https://placekitten.com/300/200) - musí být odkaz na obráz
 
 | Jméno | Věk |
 |-------|-----|
-| Dan   | 35  |
+| Darius| 35  |
 | Jana  | 28  |
 
 ### Kód

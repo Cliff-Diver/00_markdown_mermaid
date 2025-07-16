@@ -1,10 +1,10 @@
-# Markdown & Mermaid Demo Projekt
+# Markdown & Mermaid sample projekt
 
 Tento projekt obsahuje ukázky základních funkcí Markdown formátování a vytváření diagramů pomocí Mermaid.
 
 ## 📋 Obsah
 
-- [Markdown \& Mermaid Demo Projekt](#markdown--mermaid-demo-projekt)
+- [Markdown \& Mermaid sample projekt](#markdown--mermaid-sample-projekt)
   - [📋 Obsah](#-obsah)
   - [📖 Popis projektu](#-popis-projektu)
   - [📁 Struktura projektu](#-struktura-projektu)
