@@ -21,3 +21,15 @@ flowchart TB
   C --> E[Konec]
   D --> E
 ```
+
+## Ostatní tvary
+
+```mermaid
+flowchart TB
+  A((Start)) --> B{Rozhodnutí?}
+  B -- Ano --> C[Proces]
+  B -- Ne --> D[[Subrutina]]
+  C --> E{{I/O operace}}
+  D --> F([Konec])
+  E --> F
+```
