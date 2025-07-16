@@ -9,8 +9,11 @@ Zde je použito `## Podnadpis`.
 ### Menší nadpis - formátování textu
 
 Označení tučného textu **tučný text** a zapisuje se jako `**tučný text**`.
+
 Označení kurzívy *kurzíva* a zapisuje se jako `*kurzíva*`.
+
 Označení tučného a kurzívy **_tučný a kurzíva_** a zapisuje se jako `**_tučný a kurzíva_**`.
+
 Označení přeškrtnutého textu ~~přeškrtnutý text~~ a zapisuje se jako `~~přeškrtnutý text~~`.
 
 ### Seznamy
@@ -27,6 +30,8 @@ Označení přeškrtnutého textu ~~přeškrtnutý text~~ a zapisuje se jako `~~
 - [ ] Čeká na dokončení
 
 ### Oddělovač
+
+Oddělovač se zapisuje jako tři pomlčky `---` nebo tři hvězdičky `***`.
 
 ---
 
