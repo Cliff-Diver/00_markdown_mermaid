@@ -30,7 +30,7 @@ Označení přeškrtnutého textu ~~přeškrtnutý text~~
 
 Odkaz na [OpenAI](https://www.openai.com)
 
-Obrázek ![Alternativní text](https://images.app.goo.gl/3iDqgTh33fkj54Ws7)
+Obrázek ![Kočka](https://placekitten.com/300/200)
 
 ### Tabulka
 
