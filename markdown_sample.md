@@ -1,13 +1,17 @@
 # Hlavní nadpis - úvod do Markdown
 
+Nadpis se v kodu píše jako `# Hlavní nadpis`, kde počet znaků `#` určuje úroveň nadpisu. Pro podnadpisy se používají dva nebo více znaků `#`.
+
 ## Podnadpis
+
+Zde je použito `## Podnadpis`.
 
 ### Menší nadpis - formátování textu
 
-Označení tučného textu **tučný text**
-Označení kurzívy *kurzíva*
-Označení tučného a kurzívy **_tučný a kurzíva_**
-Označení přeškrtnutého textu ~~přeškrtnutý text~~
+Označení tučného textu **tučný text** a zapisuje se jako `**tučný text**`.
+Označení kurzívy *kurzíva* a zapisuje se jako `*kurzíva*`.
+Označení tučného a kurzívy **_tučný a kurzíva_** a zapisuje se jako `**_tučný a kurzíva_**`.
+Označení přeškrtnutého textu ~~přeškrtnutý text~~ a zapisuje se jako `~~přeškrtnutý text~~`.
 
 ### Seznamy
 
@@ -28,7 +32,7 @@ Označení přeškrtnutého textu ~~přeškrtnutý text~~
 
 ### Odkazy a obrázky
 
-Odkaz na [OpenAI](https://www.openai.com)
+Odkaz na [OpenAI](https://www.openai.com) a zapisuje se jako `[OpenAI](https://www.openai.com)`.
 
 Obrázek ![Kočka](https://placekitten.com/300/200) - musí být odkaz na obrázek, který je dostupný online.
 
