@@ -30,7 +30,7 @@ Označení přeškrtnutého textu ~~přeškrtnutý text~~
 
 Odkaz na [OpenAI](https://www.openai.com)
 
-Obrázek ![Kočka](https://placekitten.com/300/200)
+Obrázek ![Kočka](https://placekitten.com/300/200) - musí být odkaz na obrázek, který je dostupný online.
 
 ### Tabulka
 
