@@ -12,7 +12,7 @@ Odkazy v rámci dokumentu:
 [Kód](#kód)
 [Citace](#citace)
 
-Tyto odkazy jsou vytvořeny pomocí syntaxe `[text](#cíl)`.
+Tyto odkazy jsou vytvořeny pomocí syntaxe `[text](#cíl)`
 
 ## Podnadpis
 
