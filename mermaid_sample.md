@@ -19,5 +19,5 @@ flowchart TB
   B -- Ano --> C[Akce 1]
   B -- Ne --> D[Akce 2]
   C --> E[Konec]
-  D --> 
+  D --> E
 ```
