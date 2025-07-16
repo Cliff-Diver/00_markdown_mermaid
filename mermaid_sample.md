@@ -9,6 +9,7 @@ flowchart LR
   B -- Ne --> D[Akce 2]
   C --> E[Konec]
   D --> E
+```
 
 ## Diagram Flowchart TB
 
@@ -18,4 +19,5 @@ flowchart TB
   B -- Ano --> C[Akce 1]
   B -- Ne --> D[Akce 2]
   C --> E[Konec]
-  D --> E
+  D --> 
+```
