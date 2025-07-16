@@ -2,6 +2,18 @@
 
 Nadpis se v kodu píše jako `# Hlavní nadpis`, kde počet znaků `#` určuje úroveň nadpisu. Pro podnadpisy se používají dva nebo více znaků `#`.
 
+Odkazy v rámci dokumentu:
+[Podnadpis](#podnadpis)
+[Menší nadpis - formátování textu](#menší-nadpis---formátování-textu)
+[Seznamy](#seznamy)
+[Oddělovač](#oddělovač)
+[Odkazy a obrázky](#odkazy-a-obrázky)
+[Tabulka](#tabulka)
+[Kód](#kód)
+[Citace](#citace)
+
+Tyto odkazy jsou vytvořeny pomocí syntaxe `[text](#cíl)`.
+
 ## Podnadpis
 
 Zde je použito `## Podnadpis`.
