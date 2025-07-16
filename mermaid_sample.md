@@ -1,9 +1,10 @@
 # Mermaid Sample
 
-[Diagram Flowchart LR](#diagram-flowchart-lr)  
-[Diagram Flowchart TB](#diagram-flowchart-tb)  
-[Ostatní tvary](#ostatní-tvary)  
-[Diagram s odkazy](#diagram-s-odkazy)
+- [Mermaid Sample](#mermaid-sample)
+  - [Diagram Flowchart LR](#diagram-flowchart-lr)
+  - [Diagram Flowchart TB](#diagram-flowchart-tb)
+  - [Ostatní tvary](#ostatní-tvary)
+  - [Diagram s odkazy](#diagram-s-odkazy)
 
 ## Diagram Flowchart LR
 
