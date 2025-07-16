@@ -4,14 +4,15 @@ Nadpis se v kodu píše jako `# Hlavní nadpis`, kde počet znaků `#` určuje �
 
 Odkazy v rámci dokumentu:
 
--[Podnadpis](#podnadpis)
--[Menší nadpis - formátování textu](#menší-nadpis---formátování-textu)
--[Seznamy](#seznamy)
--[Oddělovač](#oddělovač)
--[Odkazy a obrázky](#odkazy-a-obrázky)
--[Tabulka](#tabulka)
--[Kód](#kód)
--[Citace](#citace)
+- [Hlavní nadpis - úvod do Markdown](#hlavní-nadpis---úvod-do-markdown)
+  - [Podnadpis](#podnadpis)
+    - [Menší nadpis - formátování textu](#menší-nadpis---formátování-textu)
+    - [Seznamy](#seznamy)
+    - [Oddělovač](#oddělovač)
+    - [Odkazy a obrázky](#odkazy-a-obrázky)
+    - [Tabulka](#tabulka)
+    - [Kód](#kód)
+    - [Citace](#citace)
 
 Tyto odkazy jsou vytvořeny pomocí syntaxe `[text](#cíl)`
 
