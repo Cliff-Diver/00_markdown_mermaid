@@ -38,10 +38,10 @@ flowchart TB
 
 ```mermaid
 flowchart LR
-  A[Start] --> B{Rozhodnutí?}
+  A[Odkaz na markdown_sample] --> B{Rozhodnutí?}
   B -- Ano --> C[Akce 1]
   B -- Ne --> D[Akce 2]
   C --> E[Konec]
   D --> E
 
-click A "https://github.com/Cliff-Diver/00_markdown_mermaid/blob/main/mermaid_sample.md#diagram-flowchart-lr" "Odkaz na Diagram Flowchart LR"
+click A "https://github.com/Cliff-Diver/00_markdown_mermaid/blob/main/markdown_sample.md" "Odkaz na markdown_sample.md"
