@@ -51,7 +51,7 @@ Oddělovač se zapisuje jako tři pomlčky `---` nebo tři hvězdičky `***`.
 
 ### Odkazy a obrázky
 
-Odkaz na [OpenAI](https://www.openai.com) a zapisuje se jako `[OpenAI](https://www.openai.com)`.
+Odkaz na [markdown_sample.md](https://github.com/Cliff-Diver/00_markdown_mermaid/blob/main/mermaid_sample.md) a zapisuje se jako `[OpenAI](https://www.openai.com)`.
 
 Obrázek ![Kočka](https://placekitten.com/300/200) - musí být odkaz na obrázek, který je dostupný online.
 
