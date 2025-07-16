@@ -19,8 +19,35 @@ Označení přeškrtnutého textu ~~přeškrtnutý text~~
 2. Druhý číslovaný bod
    1. Podbod
 
+- [x] Hotovo
+- [ ] Čeká na dokončení
+
+### Oddělovač
+
+---
+
 ### Odkazy a obrázky
 
 Odkaz na [OpenAI](https://www.openai.com)
 
 Obrázek ![Alternativní text](https://images.app.goo.gl/3iDqgTh33fkj54Ws7)
+
+### Tabulka
+
+| Jméno | Věk |
+|-------|-----|
+| Dan   | 35  |
+| Jana  | 28  |
+
+### Kód
+
+Toto je `inline` kód.
+
+```python
+def hello_world():
+    print("Ahoj světe!")
+```
+
+### Citace
+
+> "To je citace." - Autor
