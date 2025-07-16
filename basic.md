@@ -9,7 +9,7 @@ Označení kurzívy *kurzíva*
 Označení tučného a kurzívy **_tučný a kurzíva_**
 Označení přeškrtnutého textu ~~přeškrtnutý text~~
 
-#### Seznamy
+### Seznamy
 
 - První položka
 - Druhá položka
@@ -19,8 +19,8 @@ Označení přeškrtnutého textu ~~přeškrtnutý text~~
 2. Druhý číslovaný bod
    1. Podbod
 
-#### Odkazy a obrázky
+### Odkazy a obrázky
 
 Odkaz na [OpenAI](https://www.openai.com)
 
-Obrázek ![Alternativní text](https://via.placeholder.com/150)
+Obrázek ![Alternativní text](https://images.app.goo.gl/3iDqgTh33fkj54Ws7)
