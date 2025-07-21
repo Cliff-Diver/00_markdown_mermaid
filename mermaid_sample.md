@@ -5,6 +5,7 @@
   - [Diagram Flowchart TB](#diagram-flowchart-tb)
   - [Ostatní tvary](#ostatní-tvary)
   - [Diagram s odkazy](#diagram-s-odkazy)
+  - [Oddělené názvy uzlů a vztahy](#oddělené-názvy-uzlů-a-vztahy)
 
 ## Diagram Flowchart LR
 
@@ -51,6 +52,7 @@ flowchart LR
   D --> E
 
 click A "https://github.com/Cliff-Diver/00_markdown_mermaid/blob/main/markdown_sample.md" "Odkaz na markdown_sample.md"
+```
 
 ## Oddělené názvy uzlů a vztahy
 
@@ -74,4 +76,3 @@ graph TD
   F --> G
   G --> H
   ```
-  
