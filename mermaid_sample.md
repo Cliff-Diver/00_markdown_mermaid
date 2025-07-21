@@ -51,3 +51,27 @@ flowchart LR
   D --> E
 
 click A "https://github.com/Cliff-Diver/00_markdown_mermaid/blob/main/markdown_sample.md" "Odkaz na markdown_sample.md"
+
+## Oddělené názvy uzlů a vztahy
+
+```mermaid
+graph TD
+  %% Definice uzlů
+  A[Analýza emailových adres]
+  B[Načtení dat o OP z db.view HeN]
+  C[Kontrola emailových zpráv faktury@ceskatelevize_cz – podmínky]
+  D[Kopírování emailů do aiviro_fd@ceskatelevize_cz]
+  E[Přesun emailů do email_transfer_copy v faktury@ceskatelevize_cz]
+  F[Uložení výsledků do SQLite a CSV]
+  G[Report o běhu do aiviro_fd@ceskatelevize_cz]
+  H[Vytvoření logu z běhu]
+
+  %% Vztahy
+  A --> C
+  C --> D
+  D --> E
+  E --> F
+  F --> G
+  G --> H
+  ```
+  
