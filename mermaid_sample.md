@@ -69,7 +69,8 @@ graph TD
   H[Vytvoření logu z běhu]
 
   %% Vztahy
-  A --> C
+  A --- B
+  B --> C
   C --> D
   D --> E
   E --> F
